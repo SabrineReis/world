@@ -172,13 +172,13 @@ header{
     width: 100%;
     /* height: 41.5vh; */
     overflow: hidden;
-    display: flex;          /* ← adicionado */
+    display: flex; /* ← adicionado */
     justify-content: center; /* ← centraliza o planeta */
 }
 
 .planet img{
-    width: 100%;    /* ← era width: 100%, agora auto*/
-    height: 100%;   /* ← controla pelo height da div */
+    width: 100%; /* ← era width: 100%, agora auto*/
+    height: 100%; /* ← controla pelo height da div */
     animation: anima 400s linear infinite;
 }
 
