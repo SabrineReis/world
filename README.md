@@ -24,25 +24,6 @@ CSS3 (Flexbox, Animações, Variáveis CSS)
 Font Awesome — ícones
 Google Fonts — Open Sans
 
-
-📁 Estrutura do Projeto
-sharetrip/
-├── index.html
-├── css/
-│   └── style.css
-└── img/
-    ├── earth-4237270.png
-    └── viktor-forgacs-Bvo2-SNi0rw-unsplash.jpg
-
-▶️ Como Executar
-
-Clone o repositório:
-
-bash   git clone https://github.com/SabrineReis/sharetrip.git
-
-Abra o arquivo index.html no seu navegador — sem necessidade de build.
-
-
 📌 Status
 🚧 Em desenvolvimento — fase de layout e design visual.
 
