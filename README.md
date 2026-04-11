@@ -38,7 +38,7 @@ sharetrip/
 
 Clone o repositório:
 
-bash   git clone https://github.com/seu-usuario/sharetrip.git
+bash   git clone https://github.com/SabrineReis/sharetrip.git
 
 Abra o arquivo index.html no seu navegador — sem necessidade de build.
 
